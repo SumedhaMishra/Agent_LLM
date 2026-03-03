@@ -1,0 +1,4 @@
+openai>=1.0.0
+requests>=2.28.0
+pytz>=2023.3
+duckduckgo-search>=4.0.0
